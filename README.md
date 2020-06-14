@@ -16,4 +16,4 @@ AWS Services:
 ```
 1. Elastic Beanstalk
 2. RDS
-3. Elastic Cache```
+3. Elastic Cache
